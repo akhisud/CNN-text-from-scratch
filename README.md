@@ -9,7 +9,7 @@ Python3, keras API with tensorflow as the backend
 
 ## Run using: 
 
-python3 -W ignore agara.py dataset_train.tsv dataset_test.tsv
+python3 -W ignore main.py dataset_train.tsv dataset_test.tsv
 
 ## Files:
 
